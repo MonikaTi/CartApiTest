@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartApi", "CartApi\CartApi.csproj", "{4D51379A-C08F-4E35-A44C-A4289846CB58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartApi.test", "CartApi.Test\CartApi.test.csproj", "{C54D79C9-D4A8-43AD-BAF0-34CEEA817B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D51379A-C08F-4E35-A44C-A4289846CB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D51379A-C08F-4E35-A44C-A4289846CB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D51379A-C08F-4E35-A44C-A4289846CB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D51379A-C08F-4E35-A44C-A4289846CB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54D79C9-D4A8-43AD-BAF0-34CEEA817B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54D79C9-D4A8-43AD-BAF0-34CEEA817B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54D79C9-D4A8-43AD-BAF0-34CEEA817B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54D79C9-D4A8-43AD-BAF0-34CEEA817B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
